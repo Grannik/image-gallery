@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="14mm"
+   height="14mm"
+   viewBox="0 0 14 14"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="archive.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="14mm"
+     inkscape:showpageshadow="false"
+     showborder="false"
+     inkscape:zoom="5.6340776"
+     inkscape:cx="43.307888"
+     inkscape:cy="46.413986"
+     inkscape:window-width="1360"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="16"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <filter
+       inkscape:label="Pixellize"
+       inkscape:menu="Pixel Tools"
+       inkscape:menu-tooltip="Reduce or remove antialiasing around shapes"
+       style="color-interpolation-filters:sRGB"
+       id="filter889"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1000 -500 "
+         id="feColorMatrix887" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path2469-3-6-7-5"
+       style="fill:#ffffff;fill-opacity:0.996198;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 7.0199864,2.7610856 3.4990691,3.6001965 3.6521941,3.833575 10.415396,3.829685 10.569341,3.596169 Z M 3.6474089,4.0440538 V 4.7622365 H 10.4465 V 4.0440538 Z m 4.259267,0.902275 -0.08292,0.06043 -0.012579,0.070547 -0.075264,1.6112309 0.013467,1.4702049 0.083056,1.6432224 0.093174,0.052227 L 8.3849165,9.846601 8.4660595,9.8008 8.5325736,6.4846835 8.4697514,5.0148212 8.3786282,4.95945 Z m -1.6792479,9.26e-4 -0.4980664,0.016202 -0.031855,0.031035 -0.012031,0.070547 -0.071914,1.6112984 0.01292,1.4701361 0.079297,1.6432911 0.089004,0.052227 0.4386623,-0.00759 0.1123143,-0.037051 0.028711,-3.3248625 -0.059951,-1.4698636 z m 4.013584,0.00349 -0.5214454,0.016201 -0.033428,0.031035 -0.01258,0.070548 -0.075264,1.6112984 0.013535,1.4701361 0.064394,1.637685 0.1118351,0.057833 0.4592393,-0.00759 0.08565,-0.035888 0.062,-3.326024 -0.06275,-1.4698636 z m -5.8655076,0.00725 -0.485625,0.016201 -0.031103,0.031035 -0.011757,0.070547 -0.070068,1.611231 0.012579,1.4702049 L 3.8667764,9.800436 3.9536614,9.85273 4.3813859,9.84514 4.4908977,9.808021 4.5189247,6.4831572 4.4604087,5.0133637 Z M 3.638864,10.073463 v 0.472227 h 6.816113 v -0.472227 z m -0.1804005,0.653996 v 0.344326 h 7.2776745 v -0.344326 z" />
+  </g>
+</svg>
