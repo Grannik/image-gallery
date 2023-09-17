@@ -4,22 +4,49 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Галерея изображений</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        table, th, td {
+            border: 1px solid black;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
 </head>
 <body>
     <h1>Мои изображения</h1>
-    <ul>
-        <li>
-            <img src="https://grannik.github.io/image-gallery.github.io/archive.svg" alt="archive.svg" width="100">
-            - <input type="text" value="https://grannik.github.io/image-gallery.github.io/archive.svg" readonly>
-        </li>
-        <li>
-            <img src="https://grannik.github.io/image-gallery.github.io/gitlab.svg" alt="gitlab.svg" width="100">
-            - <input type="text" value="https://grannik.github.io/image-gallery.github.io/gitlab.svg" readonly>
-        </li>
-        <li>
-            <img src="https://grannik.github.io/image-gallery.github.io/qubesos.svg" alt="qubesos.svg" width="100">
-            - <input type="text" value="https://grannik.github.io/image-gallery.github.io/qubesos.svg" readonly>
-        </li>
-    </ul>
+    <table>
+        <tr>
+            <td>
+                <img src="https://grannik.github.io/image-gallery.github.io/archive.svg" alt="archive.svg" width="150">
+            </td>
+            <td>
+                <input type="text" value="https://grannik.github.io/image-gallery.github.io/archive.svg" readonly>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://grannik.github.io/image-gallery.github.io/gitlab.svg" alt="gitlab.svg" width="150">
+            </td>
+            <td>
+                <input type="text" value="https://grannik.github.io/image-gallery.github.io/gitlab.svg" readonly>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://grannik.github.io/image-gallery.github.io/qubesos.svg" alt="qubesos.svg" width="150">
+            </td>
+            <td>
+                <input type="text" value="https://grannik.github.io/image-gallery.github.io/qubesos.svg" readonly>
+            </td>
+        </tr>
+    </table>
 </body>
 </html>
