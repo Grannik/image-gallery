@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="14mm"
+   height="14mm"
+   viewBox="0 0 14 14"
+   version="1.1"
+   id="svg68967"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="codepen.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview68969"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="14mm"
+     inkscape:showpageshadow="false"
+     showborder="false"
+     inkscape:zoom="5.3921852"
+     inkscape:cx="33.567096"
+     inkscape:cy="30.507112"
+     inkscape:window-width="1360"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="16"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs68964" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path69156"
+       style="fill:#000000;fill-opacity:1;stroke:#f70000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 7.0291141,1.8776547 C 6.9235156,1.8758027 6.821061,1.9154628 6.7199737,1.9733969 L 2.1204036,5.0330845 C 1.8729534,5.1993719 1.8829284,5.3903885 1.8748175,5.5796469 l 0.00262,2.7638672 c -0.01863,0.2761118 0.041377,0.5164519 0.2846831,0.6483983 l 4.5289843,3.0240226 c 0.1896476,0.119548 0.3895408,0.163437 0.6178122,-0.0018 L 11.810909,9.0141367 C 12.0013,8.8952003 12.139794,8.7426632 12.124581,8.490543 l -0.0058,-2.9062108 C 12.13964,5.3425844 12.071832,5.1765046 11.923917,5.078707 L 7.2820031,1.9682802 C 7.1952561,1.9056685 7.1112448,1.8790962 7.0291126,1.8776547 Z M 7.4277076,3.1530454 10.887395,5.4319515 9.3363016,6.4748423 7.4407546,5.1883187 Z M 6.5556769,3.1579278 6.5713015,5.2182403 4.6668482,6.4755059 3.1255206,5.4282011 Z M 7.0052472,5.9590215 8.5711455,6.9990997 6.9990752,8.048084 5.4586063,6.9990605 Z m 4.2354688,0.3013282 0.0029,1.4899999 -1.099687,-0.7484765 z M 2.7615362,6.2604706 3.8582939,7.001994 2.7586063,7.7504706 Z m 1.893281,1.2688279 1.904414,1.2573048 -0.015586,2.0602737 -3.4301948,-2.2702737 z m 4.6990624,0.00844 1.5413674,1.0473046 -3.4301954,2.2702729 -0.015625,-2.060312 z" />
+  </g>
+</svg>
